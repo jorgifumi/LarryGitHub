@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Jorge Lucena**, Git Lover  *conflict is solved*
+**Jorge Lucena**, Git Lover
 
